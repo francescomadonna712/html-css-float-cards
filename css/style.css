@@ -36,6 +36,10 @@
     width: calc(100% / 3 - 20px);
     background-color: #0f0e17;
     float: left;
+    box-shadow:  10px  10px 5px #dedede,
+    -10px -10px 5px #dedede,
+     10px -10px 5px #dedede,
+    -10px  10px 5px #dedede;
 }
       
 .img {
