@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif
+}
+
+.intestazione{
+    margin: auto;
+    padding-bottom: 50px;
+    width: 70%;
+    text-align: center;    
+}
+
+.title{
+    color: #E53170;
+    font-size: 3em;}
